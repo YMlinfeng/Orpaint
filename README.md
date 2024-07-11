@@ -1,6 +1,4 @@
-当然，以下是所有内容放在一个代码框里的版本：
 
-```markdown
 # Orpaint: Oracle Bone Inscription Restoration
 
 ## Abstract
